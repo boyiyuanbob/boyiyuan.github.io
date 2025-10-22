@@ -22,9 +22,8 @@ In Fall 2025, I’m organizing reading groups with fellow VPs of the Economics G
 
 
 You can download my **[CV here](/files/Boyi_Yuan_CV.pdf)**.  
-Contact: boyi.yuan ‘at’ ucalgary.ca
-{:.lead}
-
+Email: [boyi.yuan@ucalgary.ca](mailto:boyi.yuan@ucalgary.ca)
+{: .lead}
 ---
 
 
