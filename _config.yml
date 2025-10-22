@@ -22,7 +22,7 @@ repository               : "boyiyuanbob/boyiyuanbob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/boyi.jpg"
+  avatar           : "images/boyi.JPG"
   name             : "Boyi Yuan"
   pronouns         : "he/him"
   bio              : "An Economics PhD student at University of Calgary"
