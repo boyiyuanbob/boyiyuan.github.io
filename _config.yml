@@ -56,7 +56,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  "images/og-default.png"
+teaser                   : "images/og-default.png"
 breadcrumbs              : false 
 words_per_minute         : 160
 future                   : true
