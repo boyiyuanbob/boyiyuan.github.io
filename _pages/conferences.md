@@ -10,12 +10,12 @@ author_profile: true
 
 ## Past conferences and seminars
 
-### Economics
 - **CEA Annual Conference** — Montréal, Canada.  
-  *2025*. :contentReference[oaicite:0]{index=0}
+  *October 17–18, 2025*
 
 - **CREEA Annual Conference** — Winnipeg, Canada.  
-  *2025*. :contentReference[oaicite:1]{index=1}
+  *May 29–31, 2025*
 
-- **Environmental Economics Workshop (Western University)** — London, Canada.  
-  *2024*. :contentReference[oaicite:2]{index=2}
+- **Environmental Economics Workshop (Ivey Business School)** — London, Canada.  
+  *November 29, 2024*
+
