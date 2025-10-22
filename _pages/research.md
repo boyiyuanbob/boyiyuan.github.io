@@ -3,13 +3,9 @@ layout: single
 title: "Research & Work in progress"
 permalink: /research/
 author_profile: true
-classes: wide        # wider content column
-toc: false
+classes: wide
 ---
 
-<section class="research-entry">
-
-### Working paper/Work in progress
 ## Do Gasoline Price Changes Shift Mobility Choices? Evidence from German Walking Behavior
 
 <p class="research-meta">
