@@ -23,7 +23,7 @@ repository               : "boyiyuanbob/boyiyuanbob.github.io"
 author:
   # Biographic information
 
-  avatar           : "images/profile.png"
+  avatar           : "/images/boyi.jpg"
   name             : "Boyi Yuan"
   pronouns         : "he/him"
   bio              : "An Economics PhD student at University of Calgary"
