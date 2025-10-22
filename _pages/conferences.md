@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming
-<p class="text-gray">More to come—check back soon.</p>
+<p class="text-gray">More to come. Check back soon.</p>
 
 ## Past conferences and seminars
 
