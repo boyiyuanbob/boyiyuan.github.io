@@ -3,14 +3,18 @@ layout: single
 title: "About"
 permalink: /
 author_profile: true
+classes: wide
 ---
 
-I’m a PhD student in Economics at the **University of Calgary**. My research interests are in **energy & environmental economics**, **applied econometrics**, and **behavioral economics**. 
-- **Affiliation:** Department of Economics, University of Calgary  
-- **Address:** 437 Social Sciences Building, 2500 University Dr NW, Calgary, AB, Canada T2N 1N4  
-- **Email:** <boyi.yuan@ucalgary.ca>  
-- **Phone:** +1 (778) 320-9160  
-- **CV:** [Download PDF](/files/Boyi_Yuan_CV.pdf)
+I’m **Boyi Yuan**, a third-year PhD student in Economics at University of Calgary.  
+My research interests are energy & environmental economics, applied econometrics, and behavioral economics. Specifically, I'm focusing on individuals' behavioural responses to energy price changes. 
 
-If you’re interested in my ongoing work or potential collaborations, feel free to get in touch.
+In Fall 2025, I’m organizing reading groups with fellow VPs of the Economics Graduate Association at University of Calgary. Feel free to reach out if you are interested in it.
+
+You can download my **[CV here](/files/Boyi_Yuan_CV.pdf)**.  
+Contact: boyi.yuan ‘at’ ucalgary.ca
+{:.lead}
+
+---
+
 
