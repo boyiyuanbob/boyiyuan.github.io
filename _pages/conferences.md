@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 ## Upcoming
-{% for c in site.data.conferences.upcoming %}
-- {% if c.link %}**[{{ c.title }}]({{ c.link }})**{% else %}**{{ c.title }}**{% endif %} — {{ c.location }}.  
-  *{{ c.when }}*
-{% endfor %}
+<p class="text-gray">More to come—check back soon.</p>
 
 ## Past conferences and seminars
-{% for group in site.data.conferences.past %}
-### {{ group.track }}
-{% for c in group.items %}
-- {% if c.link %}**[{{ c.title }}]({{ c.link }})**{% else %}**{{ c.title }}**{% endif %} — {{ c.location }}.  
-  *{{ c.when }}*
-{% endfor %}
-{% endfor %}
+
+### Economics
+- **CEA Annual Conference** — Montréal, Canada.  
+  *2025*. :contentReference[oaicite:0]{index=0}
+
+- **CREEA Annual Conference** — Winnipeg, Canada.  
+  *2025*. :contentReference[oaicite:1]{index=1}
+
+- **Environmental Economics Workshop (Western University)** — London, Canada.  
+  *2024*. :contentReference[oaicite:2]{index=2}
