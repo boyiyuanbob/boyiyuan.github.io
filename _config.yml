@@ -22,7 +22,7 @@ repository               : "boyiyuanbob/boyiyuanbob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/boyi.png"
+  avatar           : "images/boyi.jpg"
   name             : "Boyi Yuan"
   pronouns         : "he/him"
   bio              : "An Economics PhD student at University of Calgary"
@@ -32,46 +32,19 @@ author:
   email            : "boyi.yuan@ucalgary.ca "
 
   # Academic websites
-  academia         : ""
-  arxiv            : ""
-  googlescholar    : ""
-  inspire-hep      : ""
-  impactstory      : ""
+ 
   orcid            : "https://orcid.org/0009-0006-4968-1822"
-  semantic         : ""
-  pubmed           : ""
-  researchgate     : ""
-  scopus           : ""
+  
 
   # Repositories and software development
-  bitbucket        : ""
-  codepen          : ""
-  dribbble         : ""
+  
   github           : "boyiyuanbob"
-  kaggle           : "" 
-  stackoverflow    : ""   
+  
 
   # Social media
-  artstation       :
-  bluesky          : 
-  facebook         :
-  flickr           :
-  goodreads        :
-  instagram        :
+ 
   linkedin         : "www.linkedin.com/in/boyi"  
-  mastodon         : 
-  medium           : 
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         : 
-  tumblr           :
-  twitter          : 
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          : 
-  zhihu            : 
+ 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
