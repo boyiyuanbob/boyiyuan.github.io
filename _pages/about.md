@@ -11,6 +11,16 @@ My research interests are energy & environmental economics, applied econometrics
 
 In Fall 2025, I’m organizing reading groups with fellow VPs of the Economics Graduate Association at University of Calgary. Feel free to reach out if you are interested in it.
 
+## Education
+
+- **Ph.D., Economics** — *University of Calgary*, **2023–present**  
+  :contentReference[oaicite:0]{index=0}
+
+- **M.A., Economics** — *University of Sydney*, **2021–2023**. :contentReference[oaicite:1]{index=1}
+
+- **B.A., Economics** — *Simon Fraser University*, **2016–2018**. :contentReference[oaicite:2]{index=2}
+
+
 You can download my **[CV here](/files/Boyi_Yuan_CV.pdf)**.  
 Contact: boyi.yuan ‘at’ ucalgary.ca
 {:.lead}
