@@ -21,7 +21,7 @@ In Fall 2025, I’m organizing reading groups with fellow VPs of the Economics G
 - **B.A., Economics** — *Simon Fraser University*, **2016–2018**. 
 
 
-You can download my **[CV (PDF)](/files/Boyi_Yuan_CV.pdf)**
+You can download my **[CV](/files/Boyi_Yuan_CV.pdf)** here.
 
 Email: [boyi.yuan@ucalgary.ca](mailto:boyi.yuan@ucalgary.ca)
 
