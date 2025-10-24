@@ -21,5 +21,5 @@ author_profile: true
 - Senior Tutor, HD Education (Remote), 2022–present  
   Courses include: ECON6002 Macroeconomic Analysis I (Master’s), ECMT6007 Analysis of Panel Data (Master’s), University of Sydney.
 
-- Tutor, YouPlus Education (Burnaby, Canada), 2017–2021 
-  Courses: ECON260 Environmental Economics, ECON103 Principles of Micro, ECON105 Principles of Macro, Simon Fraser University.
+- Tutor, YouPlus Education (Burnaby, Canada), 2017–2021  
+  Courses include: ECON260 Environmental Economics, ECON103 Principles of Micro, ECON105 Principles of Macro, Simon Fraser University.
